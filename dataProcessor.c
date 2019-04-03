@@ -1,8 +1,3 @@
-/*
-    Héctor Mauricio González Coello
-    A01328258
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -22,7 +17,6 @@
 
 ///// FUNCTION DECLARATIONS
 void readData();
-
 
 ///// MAIN FUNCTION
 int main(int argc, char * argv[])
