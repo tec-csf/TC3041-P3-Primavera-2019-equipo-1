@@ -15,4 +15,4 @@ To Run:
 
     run the queries inside model.cypher
 
-    finally, run connect.py with command python connect.py
+    finally, run connect.py with command "python connect.py"
