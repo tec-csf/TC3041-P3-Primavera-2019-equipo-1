@@ -11,7 +11,7 @@ To Run:
 
     run the docker command found in model.cypher
 
-    put data.csv file inside $HOME/Documents/neo4j-import
+    move the data.csv file to the $HOME/Documents/neo4j-import folder
 
     run the queries inside model.cypher
 
